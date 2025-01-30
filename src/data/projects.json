@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made using Vanilla Html, CSS and Javascript",
+      "skills": ["Html", "CSS", "Javascript"],
+      "demo": "https://codeninja79.github.io/Calculator_project/",
+      "source": "https://github.com/codeninja79/Calculator_project"
+    },
+    {
+      "title": "Etch-a-sketch",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made using Html, Javascript and CSS",
+      "skills": ["Html", "CSS", "Javascript"],
+      "demo": "https://codeninja79.github.io/Etch-a-sketch/",
+      "source": "https://github.com/codeninja79/Etch-a-sketch"
+    },
+    {
+      "title": "Movie Search Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made using Html, CSS and React library",
+      "skills": ["Html", "CSS", "React"],
+      "demo": "https://movie-search-website-blond.vercel.app/",
+      "source": "https://github.com/some-code88/MovieSearchWebsite"
+    }
+  ]
+  
