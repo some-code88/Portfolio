@@ -13,7 +13,7 @@ export const Hero = () => {
          My main emphasis is on continous learning and personal growth so that I can improve my skillset 
          while also providing value to a team in a professional environment.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:duttasomdeep7@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
